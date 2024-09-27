@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osemalen.github.io/sitemap.osemalen.gz
+Sitemap: https://osemalen.github.io/app/sitemap.osemalen.gz
+Sitemap: https://osemalen.github.io/assets/sitemap.osemalen.gz
+Sitemap: https://osemalen.github.io/css/sitemap.osemalen.gz
+Sitemap: https://osemalen.github.io/data/sitemap.osemalen.gz
+Sitemap: https://osemalen.github.io/includes/sitemap.osemalen.gz
+Sitemap: https://osemalen.github.io/item/sitemap.osemalen.gz
+Sitemap: https://osemalen.github.io/src/sitemap.osemalen.gz
